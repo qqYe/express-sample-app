@@ -4,4 +4,4 @@ If you are seeing this page as output in a Tekton Pipeline, then you are GOOD TO
 
 A change to trigger the build for demonstration.
 
-Change to test the trigger.
+Changed the webhook content type to application/json
